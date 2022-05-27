@@ -1,0 +1,29 @@
+{
+	"student": [
+	      {
+			  "firstName" : "Fatma",
+			  "lastName" : "Mostafa",
+			  "regNo" : "18101521",
+			  "department" : "Computer Science",
+			  "email" : "fatma@aast.edu",
+			  "mobile" : "01234567891"
+			  
+           },
+		   {
+			  "firstName" : "Passant",
+			  "lastName" : "Hossam",
+			  "regNo" : "18101541",
+			  "department" : "Computer Science",
+			  "email" : "passant@aast.edu",
+			  "mobile" : "01234567891"
+           },
+		   {
+			  "firstName" : "Manar",
+			  "lastName" : "Nagy",
+			  "regNo" : "18102985",
+			  "department" : "Computer Science",
+			  "email" : "manar@aast.edu",
+			  "mobile" : "01234567891"
+           }
+	]
+}

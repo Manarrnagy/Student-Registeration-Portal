@@ -1,0 +1,19 @@
+<?xml version= "1.0" encoding = "utf-8"?>
+<addresses>
+    <address>
+	    <fname>Miral</fname>
+		<lname>Hossam</lname>
+		<regNo>18101888</regNo>
+		<dep>Computer Science</dep>
+		<email>miral@aast.edu</email>
+		<mob>01234567891</mob>
+	</address>
+	<address>
+	    <fname>Mariam</fname>
+		<lname>Beshir</lname>
+		<regNo>18100173</regNo>
+		<dep>Computer Science</dep>
+		<email>mariam@aast.edu</email>
+		<mob>01234567891</mob>
+	</address>
+</addresses>
